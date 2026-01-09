@@ -12,8 +12,9 @@ function App()
     <>
       <div className="bg-gray-800 dark:bg-white">
         <Scroll/>
-         <Header/>
+         
          <Routes>
+          <Header/>
             <Route path="/" element={<Home/>}></Route>
             <Route path="/About" element={<About/>}></Route>
             <Route path="/Explore" element={<Explore/>}></Route>
