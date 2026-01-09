@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Project-2/static/css/main.cfb665ff.css",
-    "main.js": "/React-Project-2/static/js/main.fc7b0a77.js",
+    "main.js": "/React-Project-2/static/js/main.cf0f6b3d.js",
     "static/media/Hork.png": "/React-Project-2/static/media/Hork.eeea1a4403967b7a02df.png",
     "static/media/CamFlix-Logo.png": "/React-Project-2/static/media/CamFlix-Logo.357efa938f6eb204759c.png",
     "index.html": "/React-Project-2/index.html",
     "main.cfb665ff.css.map": "/React-Project-2/static/css/main.cfb665ff.css.map",
-    "main.fc7b0a77.js.map": "/React-Project-2/static/js/main.fc7b0a77.js.map"
+    "main.cf0f6b3d.js.map": "/React-Project-2/static/js/main.cf0f6b3d.js.map"
   },
   "entrypoints": [
     "static/css/main.cfb665ff.css",
-    "static/js/main.fc7b0a77.js"
+    "static/js/main.cf0f6b3d.js"
   ]
 }
